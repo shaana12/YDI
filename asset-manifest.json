@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/YDI/static/css/main.d8dc4ae3.css",
+    "main.js": "/YDI/static/js/main.a2e943ac.js",
+    "static/js/453.94795774.chunk.js": "/YDI/static/js/453.94795774.chunk.js",
+    "index.html": "/YDI/index.html",
+    "main.d8dc4ae3.css.map": "/YDI/static/css/main.d8dc4ae3.css.map",
+    "main.a2e943ac.js.map": "/YDI/static/js/main.a2e943ac.js.map",
+    "453.94795774.chunk.js.map": "/YDI/static/js/453.94795774.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8dc4ae3.css",
+    "static/js/main.a2e943ac.js"
+  ]
+}
